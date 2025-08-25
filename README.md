@@ -1,6 +1,10 @@
-# Web Search Agent
+<div align="center">
+  
+## A powerful AI-powered web search assistant built with [Mastra](https://mastra.ai) that can search, extract and crawl the open web and provide accurate, sourced information.
+  
+<img width="1200" height="404" alt="brightdata-mastra-fixed" src="https://github.com/user-attachments/assets/de4ca0fe-7e09-4f9b-bc02-13d2f222deee" />
+</div>
 
-A powerful AI-powered web search assistant built with [Mastra](https://mastra.ai) that can search the internet and provide accurate, sourced information.
 
 ## Overview
 
