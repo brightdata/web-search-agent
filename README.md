@@ -52,6 +52,10 @@ This agent combines Google's Gemini 2.5 Flash model with Bright Data's web searc
 1. **Bright Data Token**: For web search capabilities
 2. **Google AI API Key**: For Gemini model access
 
+## Quickstart
+
+``` npx create-mastra@latest --template https://github.com/brightdata/web-search-agent ```
+
 ## Setup
 
 ### 1. Clone and Install
